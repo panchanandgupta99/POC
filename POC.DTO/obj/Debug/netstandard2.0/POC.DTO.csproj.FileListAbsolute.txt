@@ -1,0 +1,9 @@
+E:\POC\POC\POC.DTO\bin\Debug\netstandard2.0\POC.DTO.deps.json
+E:\POC\POC\POC.DTO\bin\Debug\netstandard2.0\POC.DTO.dll
+E:\POC\POC\POC.DTO\bin\Debug\netstandard2.0\POC.DTO.pdb
+E:\POC\POC\POC.DTO\obj\Debug\netstandard2.0\POC.DTO.csprojAssemblyReference.cache
+E:\POC\POC\POC.DTO\obj\Debug\netstandard2.0\POC.DTO.csproj.CoreCompileInputs.cache
+E:\POC\POC\POC.DTO\obj\Debug\netstandard2.0\POC.DTO.AssemblyInfoInputs.cache
+E:\POC\POC\POC.DTO\obj\Debug\netstandard2.0\POC.DTO.AssemblyInfo.cs
+E:\POC\POC\POC.DTO\obj\Debug\netstandard2.0\POC.DTO.dll
+E:\POC\POC\POC.DTO\obj\Debug\netstandard2.0\POC.DTO.pdb

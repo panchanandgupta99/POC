@@ -1,0 +1,14 @@
+E:\POC\POC\POC.Core.Console\bin\Debug\netcoreapp2.1\POC.Core.Console.deps.json
+E:\POC\POC\POC.Core.Console\bin\Debug\netcoreapp2.1\POC.Core.Console.runtimeconfig.json
+E:\POC\POC\POC.Core.Console\bin\Debug\netcoreapp2.1\POC.Core.Console.runtimeconfig.dev.json
+E:\POC\POC\POC.Core.Console\bin\Debug\netcoreapp2.1\POC.Core.Console.dll
+E:\POC\POC\POC.Core.Console\bin\Debug\netcoreapp2.1\POC.Core.Console.pdb
+E:\POC\POC\POC.Core.Console\bin\Debug\netcoreapp2.1\POC.DTO.dll
+E:\POC\POC\POC.Core.Console\bin\Debug\netcoreapp2.1\POC.DTO.pdb
+E:\POC\POC\POC.Core.Console\obj\Debug\netcoreapp2.1\POC.Core.Console.csprojAssemblyReference.cache
+E:\POC\POC\POC.Core.Console\obj\Debug\netcoreapp2.1\POC.Core.Console.csproj.CoreCompileInputs.cache
+E:\POC\POC\POC.Core.Console\obj\Debug\netcoreapp2.1\POC.Core.Console.AssemblyInfoInputs.cache
+E:\POC\POC\POC.Core.Console\obj\Debug\netcoreapp2.1\POC.Core.Console.AssemblyInfo.cs
+E:\POC\POC\POC.Core.Console\obj\Debug\netcoreapp2.1\POC.Core.Console.csproj.CopyComplete
+E:\POC\POC\POC.Core.Console\obj\Debug\netcoreapp2.1\POC.Core.Console.dll
+E:\POC\POC\POC.Core.Console\obj\Debug\netcoreapp2.1\POC.Core.Console.pdb

@@ -1,0 +1,9 @@
+E:\POC\POC\POC.Repository\bin\Debug\netstandard2.0\POC.Repository.deps.json
+E:\POC\POC\POC.Repository\bin\Debug\netstandard2.0\POC.Repository.dll
+E:\POC\POC\POC.Repository\bin\Debug\netstandard2.0\POC.Repository.pdb
+E:\POC\POC\POC.Repository\obj\Debug\netstandard2.0\POC.Repository.csprojAssemblyReference.cache
+E:\POC\POC\POC.Repository\obj\Debug\netstandard2.0\POC.Repository.csproj.CoreCompileInputs.cache
+E:\POC\POC\POC.Repository\obj\Debug\netstandard2.0\POC.Repository.AssemblyInfoInputs.cache
+E:\POC\POC\POC.Repository\obj\Debug\netstandard2.0\POC.Repository.AssemblyInfo.cs
+E:\POC\POC\POC.Repository\obj\Debug\netstandard2.0\POC.Repository.dll
+E:\POC\POC\POC.Repository\obj\Debug\netstandard2.0\POC.Repository.pdb

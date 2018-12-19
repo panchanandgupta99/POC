@@ -1,0 +1,8 @@
+E:\POC\POC\POC.Shared\bin\Debug\netstandard2.0\POC.Shared.deps.json
+E:\POC\POC\POC.Shared\bin\Debug\netstandard2.0\POC.Shared.dll
+E:\POC\POC\POC.Shared\bin\Debug\netstandard2.0\POC.Shared.pdb
+E:\POC\POC\POC.Shared\obj\Debug\netstandard2.0\POC.Shared.csproj.CoreCompileInputs.cache
+E:\POC\POC\POC.Shared\obj\Debug\netstandard2.0\POC.Shared.AssemblyInfoInputs.cache
+E:\POC\POC\POC.Shared\obj\Debug\netstandard2.0\POC.Shared.AssemblyInfo.cs
+E:\POC\POC\POC.Shared\obj\Debug\netstandard2.0\POC.Shared.dll
+E:\POC\POC\POC.Shared\obj\Debug\netstandard2.0\POC.Shared.pdb

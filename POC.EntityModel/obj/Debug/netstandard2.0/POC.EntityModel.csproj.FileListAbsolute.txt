@@ -1,0 +1,9 @@
+E:\POC\POC\POC.EntityModel\bin\Debug\netstandard2.0\POC.EntityModel.deps.json
+E:\POC\POC\POC.EntityModel\bin\Debug\netstandard2.0\POC.EntityModel.dll
+E:\POC\POC\POC.EntityModel\bin\Debug\netstandard2.0\POC.EntityModel.pdb
+E:\POC\POC\POC.EntityModel\obj\Debug\netstandard2.0\POC.EntityModel.csprojAssemblyReference.cache
+E:\POC\POC\POC.EntityModel\obj\Debug\netstandard2.0\POC.EntityModel.csproj.CoreCompileInputs.cache
+E:\POC\POC\POC.EntityModel\obj\Debug\netstandard2.0\POC.EntityModel.AssemblyInfoInputs.cache
+E:\POC\POC\POC.EntityModel\obj\Debug\netstandard2.0\POC.EntityModel.AssemblyInfo.cs
+E:\POC\POC\POC.EntityModel\obj\Debug\netstandard2.0\POC.EntityModel.dll
+E:\POC\POC\POC.EntityModel\obj\Debug\netstandard2.0\POC.EntityModel.pdb
